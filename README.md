@@ -59,3 +59,4 @@
 - [Woojin Lee](https://risingview.artstation.com/projects/Nxk89g)
 - [The Genshin Wiki Contributors](https://genshin-impact.fandom.com/wiki/Venti/Media)
 - [Maya](https://twitter.com/Mayaaa_O1?t=AQ3FUdkuefujv-fTJ1wJ-g)
+- [The Krita Team](https://krita.org/en/)
